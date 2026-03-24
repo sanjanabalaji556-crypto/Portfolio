@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = " netlify.toml "
+status = 200
